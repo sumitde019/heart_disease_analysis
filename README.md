@@ -1,2 +1,22 @@
-# heart_disease_analysis
-This project builds an AI model to predict heart disease using features like age, cholesterol, blood pressure, ECG results etc. It applies machine learning for early risk detection, aiming to assist healthcare professionals in faster, data-driven diagnoses.
+# Heart Disease Prediction Using AI
+
+## Overview
+
+This project involves building a machine learning model to predict the presence of heart disease based on clinical parameters. The model uses patient health data to assess risk and support medical decision-making.
+
+## Goal
+
+To develop a reliable, interpretable model that can classify whether a person is likely to have heart disease or not.
+
+## Technologies
+
+- Python
+- Scikit-learn
+- Pandas, NumPy
+- Matplotlib, Seaborn (for visualization)
+- Jupyter Notebook
+
+## How to Run
+
+1. Clone the repo
+2. Install dependencies  
